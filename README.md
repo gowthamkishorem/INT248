@@ -1,1 +1,1 @@
-# TrafficSignalpredictionusingdeeplearning
+# Traffic Signal Classification using deeplearning
